@@ -5,3 +5,5 @@ numpy
 .ipynb_checkpoints
 
 .git.ipynb
+*.meta
+*.gz
