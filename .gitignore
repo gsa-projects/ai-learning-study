@@ -1,6 +1,7 @@
 .git
 .idea
 data
+numpy
 .ipynb_checkpoints
 
 .git.ipynb
